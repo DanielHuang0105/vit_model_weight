@@ -17,7 +17,7 @@ deit_base_distilled_patch16_224:
   url: https://github.com/DanielHuang0105/vit_model_weight/releases/download/v1.0/deit_base_distilled_patch16_224_pytorch_model.bin
   <<: *default
 
-# deit_base_patch16_224
+# levit_256
 levit_256:
   url: https://github.com/DanielHuang0105/vit_model_weight/releases/download/v1.0/levit_256_pytorch_model.bin
   <<: *default
@@ -27,7 +27,7 @@ pit_b_224:
   url: https://github.com/DanielHuang0105/vit_model_weight/releases/download/v1.0/pit_b_224_pytorch_model.bin
   <<: *default
 
-# pit_s_224
+# swin_tiny_patch4_window7_224
 swin_tiny_patch4_window7_224:
   url: https://github.com/DanielHuang0105/vit_model_weight/releases/download/v1.0/swin_tiny_patch4_window7_224_pytorch_model.bin
   <<: *default
